@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+input, button {
+  padding: 10px;
+  margin: 5px;
+}
+#weather {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
